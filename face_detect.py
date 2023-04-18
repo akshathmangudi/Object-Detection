@@ -1,7 +1,7 @@
 import cv2 # Importing the OpenCV module
 
 # Importing the required cascade file for face detection
-haar_cas = cv2.CascadeClassifier ('/Users/Aksha/PycharmProjects/drowsy-detect/haar cascade/haarcascade_frontalface_default.xml')
+haar_cas = cv2.CascadeClassifier ('/Users/Aksha/PycharmProjects/obj-detect/haar cascade/haarcascade_frontalface_default.xml')
 
 # Captures the webcam
 video_capture = cv2.VideoCapture(0)
