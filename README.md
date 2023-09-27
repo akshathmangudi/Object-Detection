@@ -1,10 +1,10 @@
 # Object Detection
 
 ## Table of Contents
-* <a href="https://github.com/akshathmangudi/Object-Detection/blob/main/README.md#initalizing">Initializing</a>
-* <a href="https://github.com/akshathmangudi/Object-Detection/blob/main/README.md#dependencies">Dependencies</a>
-* <a href="https://github.com/akshathmangudi/Object-Detection/blob/main/README.md#running-the-model">Running the model </a>
-* <a href="https://github.com/akshathmangudi/Object-Detection/blob/main/README.md#help">Help</a>
+* <a href="https://github.com/akshathmangudi/Object-Detection#initalizing">Initializing</a>
+* <a href="https://github.com/akshathmangudi/Object-Detection#dependencies">Dependencies</a>
+* <a href="https://github.com/akshathmangudi/Object-Detection#running-the-model">Running the model </a>
+* <a href="https://github.com/akshathmangudi/Object-Detection#help">Help</a>
 
 NOTE: This repo was previously in use for real-time drowsiness detection for truck drivers. 
 The current purpose of this repo has been shifted to object detection using a webcam using OpenCV. 
