@@ -13,12 +13,12 @@ $ cd Object-Detection/
 ```
 
 ## Table of Contents
-* <a href=""> Creating a virtualvenv </a>
-* <a href=""> Installing dependencies </a>
-* <a href=""> Checking condition of webcam / video devices </a>
-* <a href=""> Face detection </a>
-* <a href=""> Object detection </a>
-* <a href=""> Help </a>
+* <a href="https://github.com/akshathmangudi/Object-Detection#creating-a-venv"> Creating a virtualvenv </a>
+* <a href="https://github.com/akshathmangudi/Object-Detection#installing-dependencies"> Installing dependencies </a>
+* <a href="https://github.com/akshathmangudi/Object-Detection#check-condition-of-video-devices"> Checking condition of webcam / video devices </a>
+* <a href="https://github.com/akshathmangudi/Object-Detection#face-detection"> Face detection </a>
+* <a href="https://github.com/akshathmangudi/Object-Detection#object-detection"> Object detection </a>
+* <a href="https://github.com/akshathmangudi/Object-Detection#help"> Help </a>
 
 
 ### Creating a venv
