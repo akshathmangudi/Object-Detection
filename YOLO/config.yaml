@@ -1,0 +1,6 @@
+path: C:\Users\Aksha\PyCharmProjects\ai-work\yolo\custom\Alpacas-2
+train: train\images
+val: valid\images
+
+names:
+  0: alpaca
